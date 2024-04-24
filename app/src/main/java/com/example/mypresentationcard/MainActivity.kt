@@ -123,7 +123,7 @@ fun ContactDetails() {
                     .size(34.dp)
             )
             Text(
-                text = "+57 314 450 19 98",
+                text = "+57 300 000 00 00",
                 fontWeight = FontWeight.Bold,
                 fontSize = 18.sp,
                 color = Color(0xFFFFFFFF),
@@ -142,7 +142,7 @@ fun ContactDetails() {
                     .size(34.dp)
             )
             Text(
-                text = "nipoanz.com",
+                text = "web-page.com",
                 fontWeight = FontWeight.Bold,
                 fontSize = 18.sp,
                 color = Color(0xFFFFFFFF),
@@ -160,7 +160,7 @@ fun ContactDetails() {
                     .size(34.dp)
             )
             Text(
-                text = "nicolapotier97@gmail.com",
+                text = "john.due@mail.com",
                 fontWeight = FontWeight.Bold,
                 fontSize = 18.sp,
                 color = Color(0xFFFFFFFF),
